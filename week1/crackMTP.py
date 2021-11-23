@@ -1,4 +1,4 @@
-# this script will read from cipgers.json all the ciphertexts encrypted with the same key and will crack the cipher and decrypt 
+# this script will read all the ciphertexts encrypted with the same key and will crack the cipher and decrypt 
 # the last message given
 # toDo sanitize ciphertexts grouping by 2bytes and converting to int 
 cc = [
